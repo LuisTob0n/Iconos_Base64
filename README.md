@@ -12,6 +12,10 @@ Existen varias herramientas en línea que te permiten convertir imágenes a base
 
 3. [Aspose](https://products.aspose.app/ocr/es/img-to-base64): Otra opción para convertir imágenes a base64.
 
+## Herramienta para ver imagenes base64 online:
+
+1. https://jaredwinick.github.io/base64-image-viewer/
+
 ## Cómo Usar
 1. Selecciona una herramienta en línea de tu preferencia.
 2. Carga la imagen o proporciona la URL.
